@@ -1,1 +1,1 @@
-import GLOCK.py
+import glock_enc
